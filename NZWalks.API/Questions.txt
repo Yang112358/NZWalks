@@ -1,0 +1,5 @@
+﻿SQL REgion Repository
+await dbContext.Regions.FirstOrDefaultAsync(x => x.Id == id);
+
+select
+ ctol + ks, find try
